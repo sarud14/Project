@@ -7,3 +7,5 @@ export const createAlert = (icon, text) => {
     timer: 5000,
   });
 };
+
+
